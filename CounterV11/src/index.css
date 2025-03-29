@@ -1,0 +1,12 @@
+*{
+  padding: 0 auto;
+
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #e9e9e9;
+}
